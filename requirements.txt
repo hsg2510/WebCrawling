@@ -1,0 +1,9 @@
+python-dotenv
+beautifulsoup4
+openpyxl
+ipython
+jupyter_client
+jupyter_core
+urllib3
+requests
+pprintpp
